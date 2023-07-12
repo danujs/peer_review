@@ -32,8 +32,7 @@ Author
 ![11-author](https://github.com/danujs/peer_review/assets/86118475/2e46b9af-313f-4d4a-acd3-478ae05fc87b)
 
 Full Notebook
-![1notebook](https://github.com/danujs/peer_review/assets/86118475/19cda403-d8fe-4ba4-9699-328f5deee4cb)
-
+![1 Jupyter Notebook](https://github.com/danujs/peer_review/assets/86118475/5c4a5e56-0c22-4f8e-adaa-559765ff0a98)
 
 
 
