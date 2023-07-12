@@ -1,1 +1,1 @@
-#This is the steps for Jupyter Notebook tutorials.
+# These are the steps for Jupyter Notebook tutorials.
